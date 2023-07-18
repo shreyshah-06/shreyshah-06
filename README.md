@@ -48,6 +48,13 @@ Hello, World!
 
 </td><td valign="top" width="33%">
 
+### Cloud   
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=512&id=33039&format=png" alt="AWS" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
 
 
 ### Languages  
