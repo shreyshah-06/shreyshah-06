@@ -6,7 +6,7 @@ Hello, World!
 ### <div align="center">I'm Shrey, a Competitive Programmer and Web Developer 🚀</div>  
     
 
-- 🌱 I’m currently learning AWS and DevOps
+- 🌱Final Year Student at IIIT Surat
   
 
 - ❓ Ask me about anything related to Competitive Programming  
