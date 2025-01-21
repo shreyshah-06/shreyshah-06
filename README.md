@@ -117,7 +117,7 @@
   <a href="https://instagram.com/shreyshahh._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
-  <a href="mailto:shrey.shah0610@gmail.com" target="_blank">
+  <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
@@ -125,6 +125,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyshah-06&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
-
-<!-- Optional: Add a snake animation to your contribution graph -->
-![Snake animation](https://github.com/shreyshah-06/shreyshah-06/blob/output/github-contribution-grid-snake.svg)
