@@ -93,9 +93,9 @@
 
 ## 📊 GitHub Statistics
 
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shreyshah-06&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyshah-06&theme=tokyonight" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=shreyshah-06&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
