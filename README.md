@@ -91,8 +91,8 @@
 </p>
 </details>
 
+<!--
 ## 📊 GitHub Statistics
-
 
 <p align="center">
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=shreyshah-06&show_icons=true&theme=tokyonight" />
@@ -101,6 +101,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyshah-06&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
+-->
 
 ## 🔗 Let's Connect
 
