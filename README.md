@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Competitive+Programmer&center=true&width=380&height=45">
 </p>
 <div align="center">
-  <b>🌐 Check out my <a href="https://your-portfolio-url.com">Portfolio Website</a> for projects and more!</b>
+  <b>🌐 Check out my <a href="https://www.shrey-shah.me/">Portfolio Website</a> for projects and more!</b>
 </div>
 
 ## 👨‍💻 About Me
