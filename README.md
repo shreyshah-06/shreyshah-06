@@ -1,9 +1,12 @@
 <h1 align="center">Hey 👋, I'm Shrey Shah</h1>
-<h3 align="center">Software Developer | Competitive Programmer 🚀</h3>
+<h3 align="center">Full Stack Developer | Competitive Programmer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Competitive+Programmer&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Competitive+Programmer&center=true&width=380&height=45">
 </p>
+<div align="center">
+  <b>🌐 Check out my <a href="https://your-portfolio-url.com">Portfolio Website</a> for projects and more!</b>
+</div>
 
 ## 👨‍💻 About Me
 
